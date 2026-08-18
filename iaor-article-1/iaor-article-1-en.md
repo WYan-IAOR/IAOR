@@ -1,7 +1,7 @@
 # The Missing Layer Beneath Intelligence and Agents: What is an Intelligence Agent Organization Runtime (IAOR)?
 
 **Author**: W.Y.
-**Date**: 2026-08-12
+**Date**: 2026-08-18
 
 ---
 
@@ -168,4 +168,4 @@ And it is not a concept — it runs. Three members, each holding an independent 
 
 ---
 
-*W.Y. · 2026-08-12*
+*W.Y. · 2026-08-18*
